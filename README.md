@@ -13,7 +13,7 @@ This is a library of Rust scripts for specific purposes:
 
 The scripts are found in the `src/bin` folder. They can be configured using environment variables, which are documented below.
 
-[Open an issue](https://github.com/ronanyeah/solana-rust-examples/issues) if you have any requests or suggestions.
+[Open an issue](https://github.com/rust-solman/solana-rust-examples/issues) if you have any requests or suggestions.
 
 ---
 
